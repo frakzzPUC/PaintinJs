@@ -25,7 +25,7 @@
 
 <h2 style="font-family: 'Trebuchet MS', sans-serif;">Como usar</h2>
 
-<p style="font-family: Verdana, sans-serif;">Para utilizar a aplicação de desenho, basta acessar o seguinte link: .</p>
+<p style="font-family: Verdana, sans-serif;">Para utilizar a aplicação de desenho, basta acessar o seguinte link: https://frakzzpuc.github.io/PaintinJs/ .</p>
 
 <h2 style="font-family: 'Trebuchet MS', sans-serif;">Contribuindo</h2>
 
