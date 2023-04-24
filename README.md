@@ -1,6 +1,6 @@
 <h1 style="font-family: Arial, sans-serif;">Desenhando com JavaScript</h1>
 
-<img src="https://i.pinimg.com/750x/00/66/0c/00660c16d366583b57c2def582eb6c6d.jpg"
+<img src="https://i.pinimg.com/750x/00/66/0c/00660c16d366583b57c2def582eb6c6d.jpg">
 
 <p style="font-family: Georgia, serif;">Este projeto consiste em uma aplicação simples de desenho desenvolvida utilizando JavaScript e HTML5 Canvas.</p>
 
